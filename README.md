@@ -49,7 +49,7 @@ For detailed documentation and other technical inquiries, please send us an emai
 
 ## What about the license?
 
-See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz
+See our License Agreement at: [Free License Agreement](https://github.com/Novalnet-AG/SilverCart-payment-gateway/blob/add-license-1/LICENSE)
 
 
 ## What if I need help?
